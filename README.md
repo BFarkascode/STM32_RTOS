@@ -55,7 +55,7 @@ As usual, ST has their own way of implementing RTOS. Not too surprisingly, this 
 
 …which brings us the “RTOS_config.h” file. This header is the initialization setup for our RTOS. Whatever we change here, will change, how the RTOS runs. (Similarly, if we decide to use the STM32 IDE to integrate the RTOS into our code, any configuration we enable/disable or any limitation we pose on the RTOS, will simply change this header file…and basta).
 
-###RTOS specialities
+### RTOS specialities
 There are a few concepts that I want to quicky discuss that are crucial for understanding RTOS.
 
 #### Reentry and thread safety
