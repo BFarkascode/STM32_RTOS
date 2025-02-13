@@ -42,8 +42,11 @@ We will be using the pixelBanger project as the source for the tasks/threads:
 
 ## To read
 I suggest going through quickly the official RTOS documentation: 
+
 https://www.freertos.org/Documentation/00-Overview
+
 Also, the Shawn Hymel video series on ESP32 RTOS mostly applies:
+
 https://www.youtube.com/watch?v=F321087yYy4&list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz&index=2
 
 ## Particularities
